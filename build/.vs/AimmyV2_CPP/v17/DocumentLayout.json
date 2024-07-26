@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Amm\\etc\\Aimmy2_CPP\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{331FD1C8-04F6-390F-B806-84F1F0CF7714}|AimmyV2_CPP.vcxproj|C:\\Amm\\etc\\Aimmy2_CPP\\src\\SecondaryWindow.ui||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331FD1C8-04F6-390F-B806-84F1F0CF7714}|AimmyV2_CPP.vcxproj|C:\\Amm\\etc\\Aimmy2_CPP\\src\\OverlayWindow.ui||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331FD1C8-04F6-390F-B806-84F1F0CF7714}|AimmyV2_CPP.vcxproj|C:\\Amm\\etc\\Aimmy2_CPP\\src\\MainWindow.ui||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331FD1C8-04F6-390F-B806-84F1F0CF7714}|AimmyV2_CPP.vcxproj|C:\\Amm\\etc\\Aimmy2_CPP\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecondaryWindow.ui",
+              "DocumentMoniker": "C:\\Amm\\etc\\Aimmy2_CPP\\src\\SecondaryWindow.ui",
+              "RelativeDocumentMoniker": "..\\src\\SecondaryWindow.ui",
+              "ToolTip": "C:\\Amm\\etc\\Aimmy2_CPP\\src\\SecondaryWindow.ui",
+              "RelativeToolTip": "..\\src\\SecondaryWindow.ui",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhPlVNLSgNBEK2ezkwk95CACyMYyVpBcZdDuA9eQfQCHsGdZJWN6CCKQZJNMsvgEQKS/Xy6p9uqmj8RPy9507/6vK6aEdZaCIIAEFYIkdLkO6CdjOMYpJRmMBhI2hO4TQewXC6JNk1Ta3RqU5VanWirI2VVmNg4jJnT6dRuPjd2NpvF5Ed08uwYjLMgi9GCyROAyYgKodPpQHe3683nc00\u002BDj1KGPwbdEsr8joP6LouLIIFrD5WZC0x\u002BY5DBkhRN7R0OdaUgfZun9/gYK8HR70\u002B9PcPwfM88vMcvDcUrGcmkiKibEm4PD8G6UqQnuSARhvyMUUAQaOQDhq0mBd393zBm0cfHAxwPXnCSgksFv5w1EZz0m0FWCwildWR2C1UwGsE\u002BlFZWYHWHMA0akAKhIMZkGiX9aZZ5lJB7ldegckZagquJg9ZHXLwGUeGysf3fVq7Sqnk7OSUD38DvmTw8v5KnWg3FKhYgcE61PcKapUVjecYgK6A86oL9J5Ta5IwARWqLepYl3NCFEUcrNkFrO5fkftUCijif0D2w\u002BHQiPF4TOv2er2OfvqcEfwJFyC1o9FIfAEY9LSsVtvctwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-23T10:46:04.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OverlayWindow.ui",
+              "DocumentMoniker": "C:\\Amm\\etc\\Aimmy2_CPP\\src\\OverlayWindow.ui",
+              "RelativeDocumentMoniker": "..\\src\\OverlayWindow.ui",
+              "ToolTip": "C:\\Amm\\etc\\Aimmy2_CPP\\src\\OverlayWindow.ui",
+              "RelativeToolTip": "..\\src\\OverlayWindow.ui",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhPlVNLSgNBEK2ezkwk95CACyMYyVpBcZdDuA9eQfQCHsGdZJWN6CCKQZJNMsvgEQKS/Xy6p9uqmj8RPy9507/6vK6aEdZaCIIAEFYIkdLkO6CdjOMYpJRmMBhI2hO4TQewXC6JNk1Ta3RqU5VanWirI2VVmNg4jJnT6dRuPjd2NpvF5Ed08uwYjLMgi9GCyROAyYgKodPpQHe3683nc00\u002BDj1KGPwbdEsr8joP6LouLIIFrD5WZC0x\u002BY5DBkhRN7R0OdaUgfZun9/gYK8HR70\u002B9PcPwfM88vMcvDcUrGcmkiKibEm4PD8G6UqQnuSARhvyMUUAQaOQDhq0mBd393zBm0cfHAxwPXnCSgksFv5w1EZz0m0FWCwildWR2C1UwGsE\u002BlFZWYHWHMA0akAKhIMZkGiX9aZZ5lJB7ldegckZagquJg9ZHXLwGUeGysf3fVq7Sqnk7OSUD38DvmTw8v5KnWg3FKhYgcE61PcKapUVjecYgK6A86oL9J5Ta5IwARWqLepYl3NCFEUcrNkFrO5fkftUCijif0D2w\u002BHQiPF4TOv2er2OfvqcEfwJFyC1o9FIfAEY9LSsVtvctwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-23T10:46:03.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.ui",
+              "DocumentMoniker": "C:\\Amm\\etc\\Aimmy2_CPP\\src\\MainWindow.ui",
+              "RelativeDocumentMoniker": "..\\src\\MainWindow.ui",
+              "ToolTip": "C:\\Amm\\etc\\Aimmy2_CPP\\src\\MainWindow.ui",
+              "RelativeToolTip": "..\\src\\MainWindow.ui",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhPlVNLSgNBEK2ezkwk95CACyMYyVpBcZdDuA9eQfQCHsGdZJWN6CCKQZJNMsvgEQKS/Xy6p9uqmj8RPy9507/6vK6aEdZaCIIAEFYIkdLkO6CdjOMYpJRmMBhI2hO4TQewXC6JNk1Ta3RqU5VanWirI2VVmNg4jJnT6dRuPjd2NpvF5Ed08uwYjLMgi9GCyROAyYgKodPpQHe3683nc00\u002BDj1KGPwbdEsr8joP6LouLIIFrD5WZC0x\u002BY5DBkhRN7R0OdaUgfZun9/gYK8HR70\u002B9PcPwfM88vMcvDcUrGcmkiKibEm4PD8G6UqQnuSARhvyMUUAQaOQDhq0mBd393zBm0cfHAxwPXnCSgksFv5w1EZz0m0FWCwildWR2C1UwGsE\u002BlFZWYHWHMA0akAKhIMZkGiX9aZZ5lJB7ldegckZagquJg9ZHXLwGUeGysf3fVq7Sqnk7OSUD38DvmTw8v5KnWg3FKhYgcE61PcKapUVjecYgK6A86oL9J5Ta5IwARWqLepYl3NCFEUcrNkFrO5fkftUCijif0D2w\u002BHQiPF4TOv2er2OfvqcEfwJFyC1o9FIfAEY9LSsVtvctwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-23T10:46:01.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Amm\\etc\\Aimmy2_CPP\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "..\\CMakeLists.txt",
+              "ToolTip": "C:\\Amm\\etc\\Aimmy2_CPP\\CMakeLists.txt",
+              "RelativeToolTip": "..\\CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-23T10:45:55.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

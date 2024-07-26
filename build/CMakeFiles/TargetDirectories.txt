@@ -1,0 +1,5 @@
+C:/Amm/etc/Aimmy2_CPP/build/CMakeFiles/AimmyV2_CPP.dir
+C:/Amm/etc/Aimmy2_CPP/build/CMakeFiles/edit_cache.dir
+C:/Amm/etc/Aimmy2_CPP/build/CMakeFiles/rebuild_cache.dir
+C:/Amm/etc/Aimmy2_CPP/build/CMakeFiles/AimmyV2_CPP_autogen_timestamp_deps.dir
+C:/Amm/etc/Aimmy2_CPP/build/CMakeFiles/AimmyV2_CPP_autogen.dir

@@ -1,0 +1,1 @@
+ C:/Qt/6.7.2/mingw_64/lib/libQt6Widgets.a "C:/Amm/onnxruntime-win-x64-1.18.1/lib/onnxruntime.lib" "C:/Amm/tinyxml2-10.0.0/build/libtinyxml2.a" C:/Qt/6.7.2/mingw_64/lib/libQt6Gui.a C:/Qt/6.7.2/mingw_64/lib/libQt6Core.a -lmpr -luserenv -ld3d11 -ldxgi -ldxguid -ld3d12 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
